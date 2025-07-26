@@ -8,7 +8,6 @@ Fornece uma ferramenta `rio_search` que:
 - Realiza 15+ pesquisas automatizadas em sites oficiais do Rio
 - Foca em fontes como 1746.rio, prefeitura.rio, carioca.rio
 - Retorna informações estruturadas sobre serviços municipais
-- Especializado em atendimento a imigrantes e cidadãos
 
 ## Configuração
 
@@ -99,7 +98,7 @@ Configuração para clientes compatíveis com MCP:
 
 ### Comportamento esperado
 1. Cliente solicita permissão para usar a ferramenta
-2. Servidor executa 15+ pesquisas (1-3 minutos)
+2. Servidor executa 15+ pesquisas (1-2 minutos)
 3. Retorna resposta detalhada com:
    - Procedimentos específicos
    - Contatos e telefones
